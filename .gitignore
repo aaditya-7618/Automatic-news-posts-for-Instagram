@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.env
+
+# Playwright test results
+playwright-report/
+test-results/
+*.log
+
+# Screenshots and Generated Media
+# allowing all of them
+
+# Auth and sensitive info
+auth.json
+
+# VSCode settings (optional)
+.vscode/
+
+# Misc
+.DS_Store
+*.swp
+*.swo
